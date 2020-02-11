@@ -13,17 +13,21 @@ This application is using some libraries created by our lecturer at Bournemouth 
 
 ## Based on Craig Reynolds works
 ### Some of the basic behaviours
-Separation
+*Separation*
+
 ![Separation](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rule_separation.gif/200px-Rule_separation.gif)
 
-Alignment
+
+*Alignment*
+
 ![Alignment](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rule_alignment.gif/200px-Rule_alignment.gif)
 
-Cohesion
+*Cohesion*
+
 ![Cohesion](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rule_cohesion.gif/200px-Rule_cohesion.gif)
+
 
 # References:
 [https://www.red3d.com/cwr/boids/](https://www.red3d.com/cwr/boids/)
+
 [https://en.wikipedia.org/wiki/Boids](https://en.wikipedia.org/wiki/Boids)
-
-
