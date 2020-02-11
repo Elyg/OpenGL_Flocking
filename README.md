@@ -2,7 +2,7 @@
 This is my university project, which is an OpenGL application with Qt as the GUI and window manager, showcasing a simple implementation of a flocking system. 
 This application is using some libraries created by our lecturer at Bournemouth University (NCCA)
                                                                                                                    
-![](https://media.giphy.com/media/S64sNLvefupHxKW1Hf/giphy.gif)
+![](https://github.com/Elyg/OpenGL_Flocking/blob/master/flocking_demo.gif)
 
 # Library dependancies
 
