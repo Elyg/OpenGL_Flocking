@@ -9,13 +9,16 @@ This application is using some libraries created by our lecturer at Bournemouth 
  - OpenGL
  - Qt5
  - Boost
+ - qmake
 
 ## Based on Craig Reynolds works
 ### Some of the basic behaviours
 Separation
 ![Separation](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rule_separation.gif/200px-Rule_separation.gif)
+
 Alignment
 ![Alignment](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rule_alignment.gif/200px-Rule_alignment.gif)
+
 Cohesion
 ![Cohesion](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rule_cohesion.gif/200px-Rule_cohesion.gif)
 
