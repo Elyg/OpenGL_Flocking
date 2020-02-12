@@ -1,8 +1,9 @@
 ﻿# OpenGL Flocking 
 This is my university project, which is an OpenGL application with Qt as the GUI and window manager, showcasing a simple implementation of a flocking system. 
 This application is using some libraries created by our lecturer at Bournemouth University (NCCA)
+                                                                                                                   
+![](https://github.com/Elyg/OpenGL_Flocking/blob/master/flocking_demo.gif)
 
-![](https://media.giphy.com/media/S64sNLvefupHxKW1Hf/giphy.gif)
 # Library dependancies
 
  - NGL ([https://github.com/NCCA/NGL](https://github.com/NCCA/NGL))
@@ -10,6 +11,14 @@ This application is using some libraries created by our lecturer at Bournemouth 
  - Qt5
  - Boost
  - qmake
+### How to compile and run the application
+```
+git clone git@github.com:Elyg/OpenGL_Flocking.git
+cd OpenGL_Flocking/
+qmake FlockingSystem.pro
+make
+./FlockingSystem
+```
 
 ## Based on Craig Reynolds works
 ### Some of the basic behaviours
